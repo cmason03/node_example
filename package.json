@@ -1,0 +1,19 @@
+{
+  "name": "node_example",
+  "version": "0.0.0",
+  "description": "this example is so cool",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuftsdev/comp20-cmason/tree/master/node_example"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
